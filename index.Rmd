@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAMES HERE"
+title: "United State Water Levels"
+author: "Kylie Brothers, Spencer Davis, and Sheris Johnet"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
