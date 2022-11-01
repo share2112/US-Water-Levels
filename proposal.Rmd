@@ -1,6 +1,9 @@
 # Proposal
 
 ## Research topic
+The research topic is about water levels in several locations in the US. Particularly, we are interested in how the water level changes over time in those locations as well as how the water levels and changes in water levels compare between locations. This is important because with this information about the different water level communities can gauge their risk of flooding and better plan for the changing sea levels. In fact many coastal communities are already seeing the effects of the changing sea levels, with more extreme water levels during storms and more frequent tidal flooding.
+
+In particular, the states we chose to focus on were The Battery, NY; Virginia Key, Biscayne Bay, FL; Galveston Pier 21, TX; Monterey, CA; Prudhoe Bay, AK; and Honolulu, HI. We chose a location in New York, as we are currently living here and thus, the changing water levels here will have an impact on us. We also chose locations in Florida, California and New York because they are among the top ten states with the highest water area. Similarly, we chose Texas because it is facing a water shortage. We also chose Arkansas because oftentimes have to deal with drought and in fact, currently, western Arkansas is now dealing with drought. We chose Hawaii as rising sea levels is a major problem for the island as it will cause chronic flooding for their major roads, cultural sites and make much of their land unusable.
 
 ## Data availability
 
