@@ -12,7 +12,7 @@ The National Oceanic and Atmospheric Administration (NOAA) gathers information o
 
 The current format of the data will be exported by the date, time (GMT), predicted water level (ft), preliminary water level (ft), and verified water level (ft). As each station is recorded separately, we will need to select the same parameters, time intervals, and data ranges for each station in separate CSV files, then merge all 6 station data sets into a single data set with an additional column to indicate the station location.
  
- 
+
 
 Link to all US stations: <https://tidesandcurrents.noaa.gov/map/>
 
