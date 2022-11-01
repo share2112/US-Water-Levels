@@ -1,5 +1,5 @@
 --- 
-title: "United State Water Levels"
+title: "United States Water Levels"
 author: "Kylie Brothers, Spencer Davis, and Sheris Johnet"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
